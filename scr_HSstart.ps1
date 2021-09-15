@@ -11,5 +11,3 @@ while ($a -ne 24) {
 [System.Windows.Forms.SendKeys]::SendWait('{ENTER}')
 
 Start-Process "C:\Users\Daniel\AppData\Local\HearthstoneDeckTracker\HearthstoneDeckTracker.exe"
-
-# temp test
