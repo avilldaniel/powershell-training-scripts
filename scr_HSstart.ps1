@@ -1,7 +1,7 @@
 add-type -AssemblyName System.Windows.Forms
 
 Start-Process "D:\Program Files (x86)\Battle.net\Battle.net Launcher.exe"
-Start-Sleep -s 7
+Start-Sleep -s 12
 
 $a = 0
 while ($a -ne 24) {
