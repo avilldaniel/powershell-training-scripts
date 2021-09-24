@@ -1,1 +1,1 @@
-Start-Process -FilePath "C:\Program Files\Google\Chrome\Application\chrome.exe" -ArgumentList '--new-window reddit.com youtube.com twitch.tv/directory/all coinbase.com'
+Start-Process -FilePath "C:\Program Files\Google\Chrome\Application\chrome.exe" -ArgumentList '--new-window reddit.com youtube.com twitch.tv/directory/all'
